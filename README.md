@@ -1,0 +1,1 @@
+# azure_terraform_single_instance

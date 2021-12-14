@@ -1,0 +1,10 @@
+azurerm_resource_group       = "1-a3148baf-playground-sandbox"
+azurerm_virtual_network_name = "qt-net"
+azurerm_subnet_name          = "qt-subnet"
+azurerm_location             = "West US"
+azurerm_linux_vm_name        = "qt-linux"
+azurerm_nic_name             = "qt-nic"
+azurerm_vm_count             = 2
+azurerm_nic_count            = 3
+azurerm_mssql_database_name  = "qt-db-d"
+azurerm_mssql_server_name    = "qt-sqlserver"

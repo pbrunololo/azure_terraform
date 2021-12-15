@@ -1,4 +1,4 @@
-azurerm_resource_group       = "1-a3148baf-playground-sandbox"
+azurerm_resource_group       = "XXXX"
 azurerm_virtual_network_name = "qt-net"
 azurerm_subnet_name          = "qt-subnet"
 azurerm_location             = "West US"
